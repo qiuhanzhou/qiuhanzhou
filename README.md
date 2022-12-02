@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Qiuhan (Karen)
 
-A passionate frontend developer currently living in New Jersey
+##A passionate frontend developer currently living in New Jersey
 
 - 🔭 I’m currently working on a React application that replicate an ecommerce application that replicate an ecommerce website
 - 🌱 I’m currently focusing on expanding my knowledge of React and TypeScript 
