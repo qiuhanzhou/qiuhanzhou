@@ -7,4 +7,4 @@ A passionate frontend developer currently living in New Jersey
 - 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 - ⚡  Fun fact: I think I'm funny
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou)](https://github.com/qiuhanzhou/github-readme-stats)
