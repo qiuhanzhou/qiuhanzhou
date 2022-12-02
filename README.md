@@ -1,4 +1,7 @@
+<p align="center">
 ## Hi there 👋 I'm Qiuhan (Karen)
+</p>
+
 
 
 <p align="center">
@@ -11,7 +14,7 @@
 - ⚡  Fun fact: I think I'm funny
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=dracula&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
 
  [![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou)](https://github.com/qiuhanzhou/github-readme-stats)
 
