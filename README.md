@@ -1,10 +1,8 @@
-<h1 align="center">Hi there 👋 I'm Qiuhan (Karen)
-</h1>
 
 
-<p align="center">
- A passionate frontend developer currently living in New Jersey
-</p>
+
+<h3 align="center">Hi there 👋 I'm Qiuhan (Karen)
+</h3>
 
 - 🔭 I’m currently working on a React application that replicate an ecommerce application that replicate an ecommerce website
 - 🌱 I’m currently focusing on expanding my knowledge of React and TypeScript 
