@@ -10,10 +10,8 @@
 - 👋 Feel free to reach out or check out my latest projects on my GitHub profile page.
 - ⚡  Fun fact: I think I'm funny
  
-<p align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
- </p>
 
  [![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou)](https://github.com/qiuhanzhou/github-readme-stats)
 
