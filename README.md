@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Qiuhan (Karen) Zhou
+### Hi there 👋 I'm Qiuhan (Karen)
 
 
 Here are some ideas to get you started:
