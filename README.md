@@ -1,7 +1,5 @@
-<p align="center">
-## Hi there 👋 I'm Qiuhan (Karen)
-</p>
-
+<h1 align="center">Hi there 👋 I'm Qiuhan (Karen)
+</h1>
 
 
 <p align="center">
