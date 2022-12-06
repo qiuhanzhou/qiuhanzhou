@@ -14,4 +14,7 @@
  [![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=dracula)](https://github.com/qiuhanzhou/github-readme-stats)
 
 
-
+## Connect with me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/qiuhan-karen-zhou/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/qiuhanzhou)
