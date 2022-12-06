@@ -15,6 +15,7 @@
 
 
 ## Connect with me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/qiuhan-karen-zhou/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/qiuhan-karen-zhou/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/qiuhanzhou)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/qiuhanzhou)&nbsp;
+[![Personal Website](https://i.stack.imgur.com/tskMh.png) Personal Website](https://qiuhanzhou.tech)
