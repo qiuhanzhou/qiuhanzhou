@@ -6,7 +6,7 @@
 
 -🔭 I’m currently working on a React application that replicate an ecommerce website\
 -🌱 I’m currently focusing on expanding my knowledge of React and TypeScript\
--👋 Feel free to reach out or check out my latest projects on my profile page.\
+-👋 Feel free to reach out or check out my latest projects on my [profile page](https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988).\
 -⚡  Fun fact: I think I'm funny
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
