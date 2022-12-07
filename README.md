@@ -9,9 +9,9 @@
 -👋 Feel free to reach out or check out my latest projects on my GitHub profile page.\
 -⚡  Fun fact: I think I'm funny
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=dracula&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&layout=compact)](https://github.com/qiuhanzhou/github-readme-stats)
 
- [![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=dracula)](https://github.com/qiuhanzhou/github-readme-stats)
+ [![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou)](https://github.com/qiuhanzhou/github-readme-stats)
 
 
 ## Connect with me
