@@ -18,4 +18,4 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/qiuhan-karen-zhou/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/qiuhanzhou)&nbsp;
-[![Personal Website](https://mystuff.bublup.com/mybublup/#/mystuff/001-f-71174611-da44-46e3-b426-8108f5ca8d94/001-i-3801e5bd-f02e-48db-b85f-41c7d4c042b9/mixed) Personal Website](https://qiuhanzhou.tech)
+[Personal Website](https://qiuhanzhou.tech)
