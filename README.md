@@ -15,6 +15,7 @@
 
 
 ## Connect with me
+<p>
 
 <a target="_blank" href="https://www.linkedin.com/in/qiuhan-karen-zhou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,8 +26,9 @@
 <a target="_blank" href="mailto:karen.zhou.dev@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+ </p>
 
-<br>
+<br/>
 
 ## Languages and tools
 <p>
