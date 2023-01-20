@@ -6,7 +6,7 @@
 
 -🔭 I’m currently working on a React application that replicate an ecommerce website\
 -🌱 I’m currently focusing on expanding my knowledge of React and TypeScript\
--👋 Feel free to reach out or check out my latest projects on my [profile page](https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988).\
+-👋 Feel free to reach out or check out my latest projects on my [profile page](https://www.karenzhou.me).\
 -👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).\
 -⚡  Fun fact: I think I'm funny
 
@@ -21,7 +21,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/qiuhan-karen-zhou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.karenzhou.me">
+<a target="_blank" href="https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="mailto:karen.zhou.dev@gmail.com">
