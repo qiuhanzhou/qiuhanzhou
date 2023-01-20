@@ -6,7 +6,7 @@
 
 -🔭 I’m currently working on a React application that replicate an ecommerce website\
 -🌱 I’m currently focusing on expanding my knowledge of React and TypeScript\
--👋 Feel free to reach out or check out my latest projects on my [profile page](https://www.karenzhou.me).\
+-👋 Feel free to reach out or check out my latest projects on my [profile page](https://karenzhou.me/).\
 -👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).\
 -⚡  Fun fact: I think I'm funny
 
