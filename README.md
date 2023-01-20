@@ -21,7 +21,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/qiuhan-karen-zhou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988">
+<a target="_blank" href="https://www.karenzhou.me">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="mailto:karen.zhou.dev@gmail.com">
