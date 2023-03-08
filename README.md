@@ -4,24 +4,31 @@
 <h3 align="center">A passionate frontend developer currently living in New Jersey
 </h3>
 
--🔭 I’m currently working on a React application that replicate an ecommerce website\
--🌱 I’m currently focusing on expanding my knowledge of React and TypeScript\
--👋 Feel free to reach out or check out my latest projects on my [profile page](https://karenzhou.me/).\
--👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).\
--⚡  Fun fact: I think I'm funny
+<div style="display: flex; align-items:center">
+-🔭 I’m currently working on a React application that replicate an ecommerce website<br /> 
+-🌱 I’m currently focusing on expanding my knowledge of React and TypeScript<br /> 
+-👋 Feel free to reach out or check out my latest projects on my [profile page](https://karenzhou.me/)<br /> 
+-👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou)<br /> 
+-⚡  Fun fact: I think I'm funny<br /> 
+</div>
 
-![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=rose_pine)
 
-## Connect with me
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=rose_pine" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=rose_pine" />
+</div>
+
+
+## Let's connect
 <p>
 
 <a target="_blank" href="https://www.linkedin.com/in/qiuhan-karen-zhou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+<a target="_blank" href="http://karenzhou.me">
+  <img align="left" alt="Devto" width="22px" src="https://cdn-icons-png.flaticon.com/512/686/686104.png" />
 </a>
 <a target="_blank" href="mailto:qiuhanzhou@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
