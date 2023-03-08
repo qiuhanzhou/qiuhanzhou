@@ -10,10 +10,9 @@
 -👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).\
 -⚡  Fun fact: I think I'm funny
 
+![Qiuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=rose_pine)
 
-![Qiuhan Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuhanzhou&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou)](https://github.com/qiuhanzhou/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=rose_pine)
 
 ## Connect with me
 <p>
@@ -24,7 +23,7 @@
 <a target="_blank" href="https://www.notion.so/Hi-I-m-Qiuhan-Karen-Zhou-3b1f37958fd5471abecc968b78b8b988">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="mailto:karen.zhou.dev@gmail.com">
+<a target="_blank" href="mailto:qiuhanzhou@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
  </p>
