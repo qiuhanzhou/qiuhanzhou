@@ -4,20 +4,22 @@
 <h3 align="center">A passionate frontend developer currently living in New Jersey
 </h3>
 
-<div style="display: flex; align-items:center">
--🔭 I’m currently working on a React application that replicate an ecommerce website<br /> 
--🌱 I’m currently focusing on expanding my knowledge of React and TypeScript<br /> 
--👋 Feel free to reach out or check out my latest projects on my [profile page](https://karenzhou.me/)<br /> 
--👋 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou)<br /> 
--⚡  Fun fact: I think I'm funny<br /> 
+<div align="center">
+
+
+🔭 I’m currently working on a React application that replicate an ecommerce website.<br /> 
+🌱 I’m currently focusing on expanding my knowledge of React and TypeScript.<br /> 
+👋 Feel free to reach out or check out my latest projects on my [personal profile](http://karenzhou.me).<br /> 
+💻 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).<br /> 
+🍻 Fun fact: I think I'm funny.<br /> 
+
+
 </div>
 
 
-
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=rose_pine" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=rose_pine" />
+<div style="display: flex; flex-direction: row;" align="center">
+ <img class="img"  src="https://github-readme-stats.vercel.app/api?username=qiuhanzhou&theme=rose_pine" />
+ <img class="img"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhanzhou&theme=rose_pine" />
 </div>
 
 
