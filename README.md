@@ -8,10 +8,10 @@
 
 
 🔭 I’m currently working on a React application that replicate an ecommerce website.<br /> 
-🌱 I’m currently focusing on expanding my knowledge of React and TypeScript.<br /> 
+🌱 I’m currently focusing on expanding my knowledge of React, Redux and TypeScript.<br /> 
 👋 Feel free to reach out or check out my latest projects on my [personal profile](http://karenzhou.me).<br /> 
 💻 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).<br /> 
-🍻 Fun fact: I speak 2 languages, I love fashion and travel, and I think I'm funny.<br /> 
+🍻 Fun fact: I speak 2 languages, I'm into fashion and travel, and I think I'm funny.<br /> 
 
 
 </div>
@@ -83,7 +83,6 @@
   <img src="https://camo.githubusercontent.com/529f3db66dcea87286a50a8bbb379acc5b6485805215e4cce5365aa43b7ddaca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465"/>
 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  
 </p>
