@@ -9,9 +9,9 @@
 
 🔭 I’m currently working on a React application that replicate an ecommerce website.<br /> 
 🌱 I’m currently focusing on expanding my knowledge of React, Redux and TypeScript.<br /> 
-👋 Feel free to reach out or check out my latest projects on my [personal profile](http://karenzhou.me).<br /> 
+👋 Feel free to reach out or check out my latest projects on my [portfolio](http://karenzhou.me).<br /> 
 💻 Currently practicing my coding skills on [codewar](https://www.codewars.com/users/qiuhan%20zhou).<br /> 
-🍻 Fun fact: I speak 2 languages, I'm into fashion and travel, and I think I'm funny.<br /> 
+🍻 Fun fact: I speak 2 languages, play piano, am into fashion and travel, and I think I'm funny.<br /> 
 
 
 </div>
